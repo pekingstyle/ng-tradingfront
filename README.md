@@ -77,8 +77,8 @@ src/
 
 ## 📄 许可证
 
-MIT License
+Apache 2.0 License
 
 ## 👨‍💻 作者
 
-MiniMax Agent
+Ivan Yang / MiniMax M2 
